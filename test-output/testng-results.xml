@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-08-28T22:44:17Z" name="Default suite" finished-at="2022-08-28T22:44:20Z" duration-ms="3073">
+  <suite started-at="2022-10-03T16:03:03 IST" name="Default suite" finished-at="2022-10-03T16:03:03 IST" duration-ms="111">
     <groups>
     </groups>
-    <test started-at="2022-08-28T22:44:17Z" name="Default test" finished-at="2022-08-28T22:44:20Z" duration-ms="3073">
-      <class name="Practice02.PostMethod">
-        <test-method signature="postMethod()[pri:0, instance:Practice02.PostMethod@7d898981]" started-at="2022-08-28T22:44:17Z" name="postMethod" finished-at="2022-08-28T22:44:20Z" duration-ms="3026" status="PASS">
+    <test started-at="2022-10-03T16:03:03 IST" name="Default test" finished-at="2022-10-03T16:03:03 IST" duration-ms="111">
+      <class name="Practice01.practice01">
+        <test-method signature="assessment()[pri:0, instance:Practice01.practice01@193f604a]" started-at="2022-10-03T16:03:03 IST" name="assessment" finished-at="2022-10-03T16:03:03 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- postMethod -->
-      </class> <!-- Practice02.PostMethod -->
+        </test-method> <!-- assessment -->
+      </class> <!-- Practice01.practice01 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

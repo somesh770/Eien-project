@@ -34,5 +34,7 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/admin/Downloads/selenium-java-4.3.0 (2)/selenium-chrome-driver-4.3.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
